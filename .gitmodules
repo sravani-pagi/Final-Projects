@@ -1,0 +1,6 @@
+[submodule "mystore/my-ecommerce"]
+	path = mystore/my-ecommerce
+	url = https://github.com/sravani-pagi/Ecommerce-Store.git
+[submodule "real-time-chat-app"]
+	path = real-time-chat-app
+	url = https://github.com/sravani-pagi/Real-Time-Chat-App.git
