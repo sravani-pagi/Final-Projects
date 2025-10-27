@@ -1,7 +1,7 @@
 ﻿# Final-Projects
 
-
-# 💬 Real-Time Chat Application
+# ProJECT-1
+#  Real-Time Chat Application
 
 A **full-stack real-time chat platform** built with **Node.js**, **Express**, **MongoDB**, **Socket.io**, and **Tailwind CSS**, enabling instant communication between users through chat rooms with **secure authentication** and **live updates**.
 
@@ -9,7 +9,7 @@ This project demonstrates the integration of backend, frontend, and real-time sy
 
 ---
 
-## 🧭 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
@@ -300,6 +300,20 @@ npm start
 
 This project is licensed under the **MIT License**.  
 You’re free to use, modify, and distribute it with attribution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
