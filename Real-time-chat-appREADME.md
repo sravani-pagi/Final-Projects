@@ -1,4 +1,4 @@
-﻿# Final-Projects
+
 
 # PROJECT-1
 #  Real-Time Chat Application
@@ -300,6 +300,7 @@ npm start
 
 This project is licensed under the **MIT License**.  
 You’re free to use, modify, and distribute it with attribution.
+
 
 
 
